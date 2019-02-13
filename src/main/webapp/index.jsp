@@ -23,7 +23,7 @@
   <tr>
     <td>John</td>
     <td>Doe</td>
-    <td>80</td>
+    <td>90</td>
   </tr>
 </table>
 
