@@ -4,7 +4,7 @@
 
 <h2>Basic HTML Table</h2>
 
-<table border="1" style="width:100%">
+<table border="1" style="width:90%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
