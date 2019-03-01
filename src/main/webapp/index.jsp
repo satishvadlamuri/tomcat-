@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>Mass maranum </h2>
+<h2>Mass maranum :) </h2>
 
 <table border="1" style="width:90%">
   <tr>
