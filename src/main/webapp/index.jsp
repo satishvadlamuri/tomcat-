@@ -9,7 +9,7 @@
 body{
 		margin: 0;
 		padding: 0;
-		background: url(https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjEldKikIThAhWS63MBHTnxCxcQjRx6BAgBEAU&url=https%3A%2F%2Fpixelz.cc%2Fimages%2Frolls-royce-wraith-luminary-collection-uhd-4k-wallpaper%2F&psig=AOvVaw3CJb7PnP9m2j6YHmXN-UTQ&ust=1552738620203690);
+		background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUkF-AaOFGvNvWpUfwazmes5Rm7HFMbUzJKDY10NNjB7Ii8hy);
 		background-size: cover;
 		background-position: center;
 		font-family: sans-serif;
