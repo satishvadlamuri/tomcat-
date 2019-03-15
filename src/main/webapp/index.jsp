@@ -98,6 +98,7 @@ color: #ffc10/;
 			<label>
 			<input type="text" name=" " placeholder="Enter username"> </label>
 			<p>password:</p>
+			<label>
 			<input type="password" name=" " placeholder="Password"></label><br>
 			<input type="submit" name="" value="login"> <br> 
 			<a href="#">Lost your paasword ?</a><br>
